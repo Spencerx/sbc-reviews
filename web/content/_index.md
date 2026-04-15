@@ -14,21 +14,21 @@ For now, this manually-curated list just links back to GitHub Issues, one for ea
 
 | SBC Name | Year Introduced | CPU |
 | --- | --- | --- |
-| [MetaComputing AI PC Framework Mainboard](https://github.com/geerlingguy/sbc-reviews/issues/103) | 2026 | Cix CP8180 |
+| [Framework Mainboard - AI PC (Arm)](https://github.com/geerlingguy/sbc-reviews/issues/103) | 2026 | Cix CP8180 |
 | [MacBook Neo](https://github.com/geerlingguy/sbc-reviews/issues/102) | 2026 | Apple A18 Pro |
 | [Raspberry Pi CM0](https://github.com/geerlingguy/sbc-reviews/issues/98) | 2025 | Pi RP3A0-AU |
 | [Dell Pro Max with GB10](https://github.com/geerlingguy/sbc-reviews/issues/92) | 2025 | Nvidia GB10 |
 | [Radxa Dragon Q6A](https://github.com/geerlingguy/sbc-reviews/issues/85) | 2025 | Qualcomm QCS6490 |
 | [Minisforum MS-R1](https://github.com/geerlingguy/sbc-reviews/issues/89) | 2025 | Cix CD8180 |
 | [Arduino Uno Q](https://github.com/geerlingguy/sbc-reviews/issues/83) | 2025 | Qualcomm Kryo-V2 |
-| [DC-ROMA Mainboard II](https://github.com/geerlingguy/sbc-reviews/issues/82) | 2025 | HiFive P550 |
+| [Framework Mainboard - DC-ROMA II (RISC-V)](https://github.com/geerlingguy/sbc-reviews/issues/82) | 2025 | HiFive P550 |
 | [Raspberry Pi 500+](https://github.com/geerlingguy/sbc-reviews/issues/81) | 2025 | Broadcom BCM2712 |
-| [Framework Mainboard](https://github.com/geerlingguy/sbc-reviews/issues/80) | 2025 | AMD AI Max+ 395 |
+| [Framework Mainboard - AMD AI Max+ 395](https://github.com/geerlingguy/sbc-reviews/issues/80) | 2025 | AMD AI Max+ 395 |
 | [Mac Studio (M3 Ultra)](https://github.com/geerlingguy/sbc-reviews/issues/95) | 2025 | Apple M3 Ultra |
 | [Radxa Orion O6](https://github.com/geerlingguy/sbc-reviews/issues/62) | 2025 | Cix CD8180 |
 | [HiFive Premier P550](https://github.com/geerlingguy/sbc-reviews/issues/65) | 2025 | ESWIN EIC7700X |
 | [GMKtec NucBox G3 Plus](https://github.com/geerlingguy/sbc-reviews/issues/64) | 2025 | Intel N150 |
-| [Framework 13 AMD](https://github.com/geerlingguy/sbc-reviews/issues/90) | 2025 | AMD Ryzen AI 5 340 |
+| [Framework Mainboard - AMD Ryzen 340](https://github.com/geerlingguy/sbc-reviews/issues/90) | 2025 | AMD Ryzen AI 5 340 |
 | [Custom Intel PC](https://github.com/geerlingguy/sbc-reviews/issues/93) | 2024 | Intel Core Ultra 265K |
 | [Apple Mac Mini M4](https://github.com/geerlingguy/sbc-reviews/issues/57) | 2024 | Apple M4 |
 | [System76 Thelio Astra](https://github.com/geerlingguy/sbc-reviews/issues/53) | 2024 | Ampere Altra Max M128-30 |
