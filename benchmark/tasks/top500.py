@@ -31,7 +31,7 @@ if linux_name in ["CentOS", "RedHat", "Fedora"]:
         _sudo=True,
     )
 
-for python_version in ["3.11", "3.12", "3.13"]:
+for python_version in ["3.11", "3.12", "3.13", "3.14"]:
     files.file(
         name="Remove Python {} EXTERNALLY-MANAGED file".format(python_version),
         path="/usr/lib/python{}/EXTERNALLY-MANAGED".format(python_version),
